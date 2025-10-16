@@ -1,0 +1,3 @@
+one/__pycache__
+*.pyc
+one/static/one/css/tailwind/node_modules
